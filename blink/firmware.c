@@ -15,7 +15,7 @@ int main(void) {
 
 	gpio_setup();
 
-	/* Blink the LED (PC8) on the board. */
+	/* Blink the LED (PC13) on the board. */
 	while (1) {
 		/* Using API function gpio_toggle(): */
 		gpio_toggle(GPIOC, GPIO13);	/* LED on/off */
