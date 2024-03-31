@@ -4,9 +4,7 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**",
-                "${workspaceFolder}/libopencm3/include",
-                "/usr/lib/x86_64-linux-gnu/include",
-                "/usr/bin"
+                "${workspaceFolder}/libopencm3/include"
             ],
             "defines": [
                 "STM32F4",

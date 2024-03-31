@@ -11,10 +11,5 @@
     "sync.h": "c",
     "ring-buffer.h": "c",
     "flash_common_all.h": "c"
-  },
-  "terminal.integrated.profiles.linux": {
-    "fish": {
-      "path": "fish"
-    }
   }
 }
